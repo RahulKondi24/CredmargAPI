@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CredmargAPI.props" />
+</Project>

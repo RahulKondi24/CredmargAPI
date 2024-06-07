@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\whizt\\Desktop\\RahulKondi\\CredmargAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAD16C7-3D04-4DCF-8A17-997EABC95BC2}|CredmargAPI\\CredmargAPI.csproj|c:\\users\\whizt\\desktop\\rahulkondi\\credmargapi\\credmargapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3FAD16C7-3D04-4DCF-8A17-997EABC95BC2}|CredmargAPI\\CredmargAPI.csproj|solutionrelative:credmargapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAD16C7-3D04-4DCF-8A17-997EABC95BC2}|CredmargAPI\\CredmargAPI.csproj|c:\\users\\whizt\\desktop\\rahulkondi\\credmargapi\\credmargapi\\controllers\\emailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FAD16C7-3D04-4DCF-8A17-997EABC95BC2}|CredmargAPI\\CredmargAPI.csproj|solutionrelative:credmargapi\\controllers\\emailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAD16C7-3D04-4DCF-8A17-997EABC95BC2}|CredmargAPI\\CredmargAPI.csproj|c:\\users\\whizt\\desktop\\rahulkondi\\credmargapi\\credmargapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FAD16C7-3D04-4DCF-8A17-997EABC95BC2}|CredmargAPI\\CredmargAPI.csproj|solutionrelative:credmargapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAD16C7-3D04-4DCF-8A17-997EABC95BC2}|CredmargAPI\\CredmargAPI.csproj|c:\\users\\whizt\\desktop\\rahulkondi\\credmargapi\\credmargapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FAD16C7-3D04-4DCF-8A17-997EABC95BC2}|CredmargAPI\\CredmargAPI.csproj|solutionrelative:credmargapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAD16C7-3D04-4DCF-8A17-997EABC95BC2}|CredmargAPI\\CredmargAPI.csproj|c:\\users\\whizt\\desktop\\rahulkondi\\credmargapi\\credmargapi\\controllers\\vendorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FAD16C7-3D04-4DCF-8A17-997EABC95BC2}|CredmargAPI\\CredmargAPI.csproj|solutionrelative:credmargapi\\controllers\\vendorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAD16C7-3D04-4DCF-8A17-997EABC95BC2}|CredmargAPI\\CredmargAPI.csproj|c:\\users\\whizt\\desktop\\rahulkondi\\credmargapi\\credmargapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FAD16C7-3D04-4DCF-8A17-997EABC95BC2}|CredmargAPI\\CredmargAPI.csproj|solutionrelative:credmargapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAD16C7-3D04-4DCF-8A17-997EABC95BC2}|CredmargAPI\\CredmargAPI.csproj|c:\\users\\whizt\\desktop\\rahulkondi\\credmargapi\\credmargapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FAD16C7-3D04-4DCF-8A17-997EABC95BC2}|CredmargAPI\\CredmargAPI.csproj|solutionrelative:credmargapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAD16C7-3D04-4DCF-8A17-997EABC95BC2}|CredmargAPI\\CredmargAPI.csproj|c:\\users\\whizt\\desktop\\rahulkondi\\credmargapi\\credmargapi\\models\\emailmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FAD16C7-3D04-4DCF-8A17-997EABC95BC2}|CredmargAPI\\CredmargAPI.csproj|solutionrelative:credmargapi\\models\\emailmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAD16C7-3D04-4DCF-8A17-997EABC95BC2}|CredmargAPI\\CredmargAPI.csproj|c:\\users\\whizt\\desktop\\rahulkondi\\credmargapi\\credmargapi\\repository\\credmargrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FAD16C7-3D04-4DCF-8A17-997EABC95BC2}|CredmargAPI\\CredmargAPI.csproj|solutionrelative:credmargapi\\repository\\credmargrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\whizt\\Desktop\\RahulKondi\\CredmargAPI\\CredmargAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "CredmargAPI\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\whizt\\Desktop\\RahulKondi\\CredmargAPI\\CredmargAPI\\Models\\User.cs",
+              "RelativeToolTip": "CredmargAPI\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T17:04:04.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\whizt\\Desktop\\RahulKondi\\CredmargAPI\\CredmargAPI\\Program.cs",
+              "RelativeDocumentMoniker": "CredmargAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\whizt\\Desktop\\RahulKondi\\CredmargAPI\\CredmargAPI\\Program.cs",
+              "RelativeToolTip": "CredmargAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T13:22:19.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmailController.cs",
+              "DocumentMoniker": "C:\\Users\\whizt\\Desktop\\RahulKondi\\CredmargAPI\\CredmargAPI\\Controllers\\EmailController.cs",
+              "RelativeDocumentMoniker": "CredmargAPI\\Controllers\\EmailController.cs",
+              "ToolTip": "C:\\Users\\whizt\\Desktop\\RahulKondi\\CredmargAPI\\CredmargAPI\\Controllers\\EmailController.cs",
+              "RelativeToolTip": "CredmargAPI\\Controllers\\EmailController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAEwBwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T08:24:48.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\whizt\\Desktop\\RahulKondi\\CredmargAPI\\CredmargAPI\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "CredmargAPI\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\whizt\\Desktop\\RahulKondi\\CredmargAPI\\CredmargAPI\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "CredmargAPI\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T08:23:27.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\whizt\\Desktop\\RahulKondi\\CredmargAPI\\CredmargAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "CredmargAPI\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\whizt\\Desktop\\RahulKondi\\CredmargAPI\\CredmargAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "CredmargAPI\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T17:03:21.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VendorController.cs",
+              "DocumentMoniker": "C:\\Users\\whizt\\Desktop\\RahulKondi\\CredmargAPI\\CredmargAPI\\Controllers\\VendorController.cs",
+              "RelativeDocumentMoniker": "CredmargAPI\\Controllers\\VendorController.cs",
+              "ToolTip": "C:\\Users\\whizt\\Desktop\\RahulKondi\\CredmargAPI\\CredmargAPI\\Controllers\\VendorController.cs",
+              "RelativeToolTip": "CredmargAPI\\Controllers\\VendorController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAwBMAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T08:24:07.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\whizt\\Desktop\\RahulKondi\\CredmargAPI\\CredmargAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "CredmargAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\whizt\\Desktop\\RahulKondi\\CredmargAPI\\CredmargAPI\\appsettings.json",
+              "RelativeToolTip": "CredmargAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-06T16:47:52.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CredmargRepository.cs",
+              "DocumentMoniker": "C:\\Users\\whizt\\Desktop\\RahulKondi\\CredmargAPI\\CredmargAPI\\Repository\\CredmargRepository.cs",
+              "RelativeDocumentMoniker": "CredmargAPI\\Repository\\CredmargRepository.cs",
+              "ToolTip": "C:\\Users\\whizt\\Desktop\\RahulKondi\\CredmargAPI\\CredmargAPI\\Repository\\CredmargRepository.cs",
+              "RelativeToolTip": "CredmargAPI\\Repository\\CredmargRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T08:33:47.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmailMessage.cs",
+              "DocumentMoniker": "C:\\Users\\whizt\\Desktop\\RahulKondi\\CredmargAPI\\CredmargAPI\\Models\\EmailMessage.cs",
+              "RelativeDocumentMoniker": "CredmargAPI\\Models\\EmailMessage.cs",
+              "ToolTip": "C:\\Users\\whizt\\Desktop\\RahulKondi\\CredmargAPI\\CredmargAPI\\Models\\EmailMessage.cs",
+              "RelativeToolTip": "CredmargAPI\\Models\\EmailMessage.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAYwAoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T16:49:48.208Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
